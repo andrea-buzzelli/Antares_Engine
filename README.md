@@ -3,7 +3,7 @@ Simple game engine built with C++ and OpenGL.
 
 ![Antares engine overview](images/antares_engine_preview.jpg)
 
-### ? Features
+Features:
 
 - **Normal mapping**  
 - **Parallax occlusion mapping** (with self-shadowing)  
@@ -31,6 +31,3 @@ Simple game engine built with C++ and OpenGL.
 - **Planar reflections**  
 - **Parallax-corrected cubemap reflections**  
 - **Frustum culling**
-
-
-
